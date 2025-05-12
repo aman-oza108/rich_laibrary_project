@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="rich_laibrary_project"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <VCUseGitPlugin val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{CF855AC4-AC3C-4AC3-B148-95693CF3171E}"/>
+    <Version min="13020.10"/>
+    <SourceVersion val="14110.00"/>
+  </_Project>
+
+</Application>

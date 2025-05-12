@@ -1,0 +1,64 @@
+﻿ <365559007096779840> 30/04/2025 14:47:50.959     [Error  ] - Unable to open the Data Source: Student, Program: "Browse - Student".
+ <501329075632006656> 30/04/2025 14:48:18.965     [Error  ] - Unable to open the Data Source: Student, Program: "Browse - Student".
+ <493405323266323968> 30/04/2025 14:50:34.912     [Error  ] - Unable to open the Data Source: Student, Program: "Browse - Student".
+ <246899063232951136> 30/04/2025 14:51:42.018     [Error  ] - Unable to open the Data Source: Student, Program: "Browse - Student".
+ <561768903786831> 30/04/2025 14:54:35.776     [Error  ] - Unable to open the Data Source: STUDENTS, Program: "Browse - STUDENTS".
+ <149167647586744736> 30/04/2025 14:54:44.463     [Error  ] - Unable to open the Data Source: STUDENTS, Program: "Browse - STUDENTS".
+ <54885368898923848> 30/04/2025 14:58:17.807     [Error  ] - Unable to open the Data Source: STUDENTS, Program: "Browse - STUDENTS".
+ <211548575975348352> 30/04/2025 14:58:26.087     [Error  ] - Unable to open the Data Source: STUDENTS, Program: "Browse - STUDENTS".
+ <37495257253522168> 30/04/2025 14:58:37.157     [Error  ] - Unable to open the Data Source: STUDENTS, Program: "Browse - STUDENTS".
+ <324353822603509376> 30/04/2025 14:58:55.120     [Error  ] - Unable to open the Data Source: STUDENTS, Program: "Browse - STUDENTS".
+ <272622201741464832> 30/04/2025 17:41:59.794     [Error  ] - Attribute mismatch in expression, Program: "Search_books".
+ <272622201741464832> 30/04/2025 17:42:04.697     [Error  ] - Attribute mismatch in expression, Program: "Search_books".
+ <148449964649466080> 02/05/2025 12:11:17.092     [Error  ] - Unable to open the Data Source: Issue_books, Program: "Browse - Issue_books".
+ <576253650191975360> 02/05/2025 12:11:22.853     [Error  ] - Unable to open the Data Source: Issue_books, Program: "Browse - Issue_books".
+ <548164768418497728> 02/05/2025 12:11:59.917     [Error  ] - Unable to open the Data Source: Issue_books, Program: "Browse - Issue_books".
+ <267041126008054944> 02/05/2025 12:12:32.448     [Error  ] - Unable to open the Data Source: Issue_books, Program: "Browse - Issue_books".
+ <319634122032133696> 02/05/2025 12:17:21.472     [Error  ] - Unable to open the Data Source: Issue_books, Program: "Browse - Issue_books".
+ <552070390895252672> 02/05/2025 12:18:33.776     [Error  ] - Unable to open the Data Source: Issue_books, Program: "Browse - Issue_books".
+ <307043545396378176> 02/05/2025 12:19:00.083     [Error  ] - Unable to open the Data Source: Issue_books, Program: "Browse - Issue_books".
+ <61530970934314304> 02/05/2025 12:20:19.106     [Error  ] - Unable to open the Data Source: Issue_books, Program: "Browse - Issue_books".
+ <230290272824168384> 02/05/2025 12:20:25.083     [Error  ] - Unable to open the Data Source: Issue_books, Program: "Browse - Issue_books".
+ <434121816406342976> 02/05/2025 16:19:31.515     [Error  ] - Unknown Database, Data Source:, Program: "demo_search".
+ <434121816406342976> 02/05/2025 16:19:31.517     [Error  ] - Unknown Database, Data Source:, Program: "demo_search".
+ <434121816406342976> 02/05/2025 16:19:31.519     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <434121816406342976> 02/05/2025 16:19:31.520     [Error  ] - EndTaskRequest(): Unknown Database, Data Source: : demo_search Unknown Database, Data Source: : demo_search  : "demo_search" ("rich_laibrary_project")  (msgid "403"), Program: "Main Program".
+ <450434962032482624> 02/05/2025 16:19:49.338     [Error  ] - Unknown Database, Data Source:, Program: "demo_search".
+ <450434962032482624> 02/05/2025 16:19:49.340     [Error  ] - Unknown Database, Data Source:, Program: "demo_search".
+ <450434962032482624> 02/05/2025 16:19:49.341     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <450434962032482624> 02/05/2025 16:19:49.342     [Error  ] - EndTaskRequest(): Unknown Database, Data Source: : demo_search Unknown Database, Data Source: : demo_search  : "demo_search" ("rich_laibrary_project")  (msgid "407"), Program: "Main Program".
+ <355946841543742208> 05/05/2025 10:23:45.455     [Error  ] - Unable to open the Data Source: STUDENTS, Program: "First_program".
+ <355946841543742208> 05/05/2025 10:23:45.459     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <355946841543742208> 05/05/2025 10:23:45.461     [Error  ] - EndTaskRequest(): Unable to open the Data Source: STUDENTS : First_program no such column: User_name : "Mobile" ("rich_laibrary_project")  (msgid "3"), Program: "Main Program".
+ <93730820436512928> 05/05/2025 12:01:10.986     [Error  ] - Unknown Database, Data Source:, Program: "demo search".
+ <93730820436512928> 05/05/2025 12:01:10.989     [Error  ] - Unknown Database, Data Source:, Program: "demo search".
+ <93730820436512928> 05/05/2025 12:01:10.991     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <93730820436512928> 05/05/2025 12:01:10.992     [Error  ] - EndTaskRequest(): Unknown Database, Data Source: : demo search Unknown Database, Data Source: : demo search  : "demo search" ("rich_laibrary_project")  (msgid "192"), Program: "Main Program".
+ <390246815244913856> 05/05/2025 12:01:16.034     [Error  ] - Unknown Database, Data Source:, Program: "demo search".
+ <390246815244913856> 05/05/2025 12:01:16.037     [Error  ] - Unknown Database, Data Source:, Program: "demo search".
+ <390246815244913856> 05/05/2025 12:01:16.040     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <390246815244913856> 05/05/2025 12:01:16.042     [Error  ] - EndTaskRequest(): Unknown Database, Data Source: : demo search Unknown Database, Data Source: : demo search  : "demo search" ("rich_laibrary_project")  (msgid "195"), Program: "Main Program".
+ <574118365019186304> 05/05/2025 12:06:43.430     [Error  ] - Duplicate Index, Data Source: Books, Program: "demo search".
+ <574118365019186304> 05/05/2025 12:06:46.228     [Error  ] - Duplicate Index, Data Source: Books, Program: "demo search".
+ <574118365019186304> 05/05/2025 12:06:46.979     [Error  ] - Duplicate Index, Data Source: Books, Program: "demo search".
+ <574118365019186304> 05/05/2025 12:06:47.644     [Error  ] - Duplicate Index, Data Source: Books, Program: "demo search".
+ <574118365019186304> 05/05/2025 12:06:49.126     [Error  ] - Duplicate Index, Data Source: Books, Program: "demo search".
+ <574118365019186304> 05/05/2025 12:07:00.845     [Error  ] - Duplicate Index, Data Source: Books, Program: "demo search".
+ <574118365019186304> 05/05/2025 12:07:02.910     [Error  ] - Duplicate Index, Data Source: Books, Program: "demo search".
+ <574118365019186304> 05/05/2025 12:07:03.611     [Error  ] - Duplicate Index, Data Source: Books, Program: "demo search".
+ <574118365019186304> 05/05/2025 12:07:04.079     [Error  ] - Duplicate Index, Data Source: Books, Program: "demo search".
+ <574118365019186304> 05/05/2025 12:07:04.346     [Error  ] - Duplicate Index, Data Source: Books, Program: "demo search".
+ <574118365019186304> 05/05/2025 12:07:08.577     [Error  ] - Duplicate Index, Data Source: Books, Program: "demo search".
+ <574118365019186304> 05/05/2025 12:07:11.128     [Error  ] - Duplicate Index, Data Source: Books, Program: "demo search".
+ <407720751829874368> 07/05/2025 14:24:22.247     [Error  ] - Unexpected error, Rich client could not be started, Program: "Main Program".
+ <140402028467278656> 07/05/2025 15:29:33.875     [Error  ] - EndTaskRequest(): Error: "Rich client requests cannot be handled when the online MDI is open" (-274) : "Mobile" ("rich_laibrary_project")  (msgid "137"), Program: "Main Program".
+ <-1> 07/05/2025 15:31:04.911     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 07/05/2025 15:31:04.911     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <160161573347944160> 07/05/2025 15:32:02.436     [Error  ] - Aborting context 160161573347944160, Program: "Main Program".
+ <-1> 07/05/2025 15:35:05.362     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 07/05/2025 15:35:22.880     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <281729216735518016> 07/05/2025 16:35:13.430     [Error  ] - Aborting context 281729216735518016, Program: "Main Program".
+ <557661973659435520> 07/05/2025 16:38:36.066     [Error  ] - Aborting context 557661973659435520, Program: "Main Program".
+ <404299756047130752> 07/05/2025 17:46:01.512     [Error  ] - Aborting context 404299756047130752, Program: "Main Program".
+ <451975405379099840> 12/05/2025 10:17:38.219     [Error  ] - Aborting context 451975405379099840, Program: "Main Program".
+ <65835459307003648> 12/05/2025 12:01:14.037     [Error  ] - Aborting context 65835459307003648, Program: "Main Program".
